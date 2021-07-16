@@ -16,6 +16,8 @@ weather condition.
 - HTML
 - Javascript
 - JQuery
+- Node.js
+- Express.js
 
 <hr />
 <br />
